@@ -1,0 +1,15 @@
+{
+  "input": {
+    "audio_path": "data/raw_audio/user123_2025-05-15_10-30.wav",
+    "transcription": "I’ve been feeling a sharp pain in my lower back since yesterday."
+  },
+  "response": "Thanks for sharing. Based on your description, it may be muscle strain or inflammation. Please monitor the pain and consult a professional if it persists.",
+  "intent": "report_symptom",
+  "entities": ["sharp pain", "lower back"],
+  "sentiment": "negative",
+  "meta": {
+    "age": 42,
+    "gender": "female",
+    "timestamp": "2025-05-15T10:30:00Z"
+  }
+}
